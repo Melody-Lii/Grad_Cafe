@@ -8,8 +8,8 @@ I also incorporate two major university rankings in Statistics: U.S. News and QS
 
 With three datasets on admission result and ranking scraped, I am able to answer two major questions below.
 
-What kind of programs are popular among the applicants in Statistics?
-What kind of applicants are usually preferred by Statistics graduate programs?
+1. What kind of programs are popular among the applicants in Statistics?
+2. What kind of applicants are usually preferred by Statistics graduate programs?
 
 Datasets:
 1. gradcafe.csv
